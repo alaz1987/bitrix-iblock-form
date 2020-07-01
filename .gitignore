@@ -1,0 +1,9 @@
+# Bitrix
+/bitrix
+/upload
+/.access.php
+/.htaccess
+/urlrewrite.php
+
+# IDE
+.idea
