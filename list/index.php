@@ -240,7 +240,7 @@ CJSCore::Init(array(
                 <div class="form-group">
                     <button type="submit" class="btn btn-primary" name="find" value="Y">Найти</button>
                     <button type="submit" class="btn btn-default" name="reset" value="Y">Отмена</button>
-                    <a href="/">Форма заявки</a>
+                    <a href="/form.php">Форма заявки</a>
                 </div>
             </form>
 
