@@ -28,7 +28,9 @@
 
 `$ git clone https://github.com/alaz1987/bitrix-iblock-form.git myproject`
 
-`$ mv -R myproject/* www_path`
+`$ cp -R myproject/* www_path`
+
+`$ rm -rf myproject`
 
 Открываем в браузере страницу установки нового сайта (либо переходим к шагу миграции структуры данных, если Битрикс уже установлен):
 
